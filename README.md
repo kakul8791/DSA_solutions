@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kakul8791/abc/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/kakul8791/abc/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kakul8791/abc/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/kakul8791/abc/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kakul8791/abc/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/kakul8791/abc/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kakul8791/abc/tree/master/0075-sort-colors) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kakul8791/abc/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/kakul8791/abc/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kakul8791/abc/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kakul8791/abc/tree/master/0073-set-matrix-zeroes) |
 | [1314-matrix-block-sum](https://github.com/kakul8791/abc/tree/master/1314-matrix-block-sum) |
 ## Divide and Conquer
