@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kakul8791/abc/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kakul8791/abc/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/kakul8791/abc/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0367-valid-perfect-square](https://github.com/kakul8791/abc/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/kakul8791/abc/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kakul8791/abc/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kakul8791/abc/tree/master/0048-rotate-image) |
 | [0357-count-numbers-with-unique-digits](https://github.com/kakul8791/abc/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/kakul8791/abc/tree/master/0365-water-and-jug-problem) |
+| [0367-valid-perfect-square](https://github.com/kakul8791/abc/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
