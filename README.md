@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kakul8791/abc/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/kakul8791/abc/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/kakul8791/abc/tree/master/0050-powx-n) |
 | [0357-count-numbers-with-unique-digits](https://github.com/kakul8791/abc/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/kakul8791/abc/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/kakul8791/abc/tree/master/0367-valid-perfect-square) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kakul8791/abc/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kakul8791/abc/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/kakul8791/abc/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
