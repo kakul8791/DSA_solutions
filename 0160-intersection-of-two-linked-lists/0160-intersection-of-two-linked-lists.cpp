@@ -26,7 +26,7 @@ public:
                 p2=p2->next;
             }
         }
-        return p2;
+        return p1;
         
     }
 };
