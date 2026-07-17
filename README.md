@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kakul8791/abc/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kakul8791/abc/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kakul8791/abc/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/kakul8791/abc/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kakul8791/abc/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/kakul8791/abc/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kakul8791/abc/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/kakul8791/abc/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kakul8791/abc/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kakul8791/abc/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/kakul8791/abc/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kakul8791/abc/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/kakul8791/abc/tree/master/3620-network-recovery-pathways) |
 ## Sorting
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/kakul8791/abc/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kakul8791/abc/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kakul8791/abc/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3312-sorted-gcd-pair-queries](https://github.com/kakul8791/abc/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kakul8791/abc/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
 |  |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/kakul8791/abc/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kakul8791/abc/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/kakul8791/abc/tree/master/1314-matrix-block-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/kakul8791/abc/tree/master/3312-sorted-gcd-pair-queries) |
 ## Queue
 |  |
 | ------- |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/kakul8791/abc/tree/master/0992-subarrays-with-k-different-integers) |
+| [3312-sorted-gcd-pair-queries](https://github.com/kakul8791/abc/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
 | ------- |
@@ -212,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/kakul8791/abc/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/kakul8791/abc/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/kakul8791/abc/tree/master/0523-continuous-subarray-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/kakul8791/abc/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kakul8791/abc/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kakul8791/abc/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
@@ -292,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/kakul8791/abc/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kakul8791/abc/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kakul8791/abc/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Graph Theory
@@ -318,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/kakul8791/abc/tree/master/0707-design-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/kakul8791/abc/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
