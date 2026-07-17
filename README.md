@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/kakul8791/abc/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kakul8791/abc/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/kakul8791/abc/tree/master/0328-odd-even-linked-list) |
+| [0707-design-linked-list](https://github.com/kakul8791/abc/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kakul8791/abc/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -313,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/kakul8791/abc/tree/master/1291-sequential-digits) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/kakul8791/abc/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
