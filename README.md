@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/kakul8791/abc/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/kakul8791/abc/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kakul8791/abc/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0460-lfu-cache](https://github.com/kakul8791/abc/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/kakul8791/abc/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/kakul8791/abc/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kakul8791/abc/tree/master/0560-subarray-sum-equals-k) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/kakul8791/abc/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kakul8791/abc/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/kakul8791/abc/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/kakul8791/abc/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/kakul8791/abc/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kakul8791/abc/tree/master/0876-middle-of-the-linked-list) |
 ## Math
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/kakul8791/abc/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/kakul8791/abc/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kakul8791/abc/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/kakul8791/abc/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/kakul8791/abc/tree/master/0707-design-linked-list) |
 ## Combinatorics
 |  |
@@ -351,4 +354,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kakul8791/abc/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/kakul8791/abc/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
