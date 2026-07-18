@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/kakul8791/abc/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/kakul8791/abc/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kakul8791/abc/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/kakul8791/abc/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kakul8791/abc/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/kakul8791/abc/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kakul8791/abc/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/kakul8791/abc/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/kakul8791/abc/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kakul8791/abc/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/kakul8791/abc/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kakul8791/abc/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/kakul8791/abc/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kakul8791/abc/tree/master/0234-palindrome-linked-list) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kakul8791/abc/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/kakul8791/abc/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kakul8791/abc/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/kakul8791/abc/tree/master/0707-design-linked-list) |
@@ -344,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/kakul8791/abc/tree/master/3312-sorted-gcd-pair-queries) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kakul8791/abc/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
