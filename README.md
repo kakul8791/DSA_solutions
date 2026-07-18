@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kakul8791/abc/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/kakul8791/abc/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/kakul8791/abc/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kakul8791/abc/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kakul8791/abc/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/kakul8791/abc/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/kakul8791/abc/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kakul8791/abc/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kakul8791/abc/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/kakul8791/abc/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/kakul8791/abc/tree/master/0707-design-linked-list) |
 ## Combinatorics
 |  |
