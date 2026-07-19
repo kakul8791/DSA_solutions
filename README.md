@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kakul8791/abc/tree/master/0011-container-with-most-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kakul8791/abc/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,11 +126,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/kakul8791/abc/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kakul8791/abc/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kakul8791/abc/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kakul8791/abc/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kakul8791/abc/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/kakul8791/abc/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kakul8791/abc/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/kakul8791/abc/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/kakul8791/abc/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/kakul8791/abc/tree/master/0647-palindromic-substrings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kakul8791/abc/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
 | ------- |
