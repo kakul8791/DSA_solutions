@@ -2,20 +2,24 @@ class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
 
-        sort(nums.begin(), nums.end());
+        // Store all elements in a hash set
+        unordered_set<int> st(nums.begin(), nums.end());
 
-        vector<int> ans;
+        // Find minimum and maximum element
+        int minVal = *min_element(nums.begin(), nums.end());
+        int maxVal = *max_element(nums.begin(), nums.end());
 
-        for(int i = 0; i < nums.size() - 1; i++) {
+        vector<int> missing;
 
-            if(nums[i] == nums[i+1])
-                continue;
+        // Check every number between min and max
+        for (int i = minVal + 1; i < maxVal; i++) {
 
-            for(int j = nums[i] + 1; j < nums[i+1]; j++) {
-                ans.push_back(j);
+            // If number is not present, add it
+            if (st.find(i) == st.end()) {
+                missing.push_back(i);
             }
         }
 
-        return ans;
+        return missing;
     }
 };
