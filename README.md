@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kakul8791/abc/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/kakul8791/abc/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kakul8791/abc/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/kakul8791/abc/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/kakul8791/abc/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/kakul8791/abc/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/kakul8791/abc/tree/master/0073-set-matrix-zeroes) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kakul8791/abc/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/kakul8791/abc/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kakul8791/abc/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/kakul8791/abc/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kakul8791/abc/tree/master/0074-search-a-2d-matrix) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kakul8791/abc/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kakul8791/abc/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/kakul8791/abc/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kakul8791/abc/tree/master/2149-rearrange-array-elements-by-sign) |
