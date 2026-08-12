@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kakul8791/abc/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kakul8791/abc/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kakul8791/abc/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/kakul8791/abc/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kakul8791/abc/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/kakul8791/abc/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/kakul8791/abc/tree/master/0283-move-zeroes) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/kakul8791/abc/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kakul8791/abc/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kakul8791/abc/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kakul8791/abc/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/kakul8791/abc/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kakul8791/abc/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kakul8791/abc/tree/master/0628-maximum-product-of-three-numbers) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/kakul8791/abc/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kakul8791/abc/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kakul8791/abc/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kakul8791/abc/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/kakul8791/abc/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kakul8791/abc/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0460-lfu-cache](https://github.com/kakul8791/abc/tree/master/0460-lfu-cache) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kakul8791/abc/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kakul8791/abc/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kakul8791/abc/tree/master/0992-subarrays-with-k-different-integers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kakul8791/abc/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kakul8791/abc/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kakul8791/abc/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
 | ------- |
