@@ -15,6 +15,7 @@ public:
             }
             swap(nums[i],nums[j]);
         }
+        //reverse the second half
         reverse(nums.begin()+i+1,nums.end());
 
         
