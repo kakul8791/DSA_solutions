@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/kakul8791/abc/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/kakul8791/abc/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kakul8791/abc/tree/master/0628-maximum-product-of-three-numbers) |
+| [1922-count-good-numbers](https://github.com/kakul8791/abc/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kakul8791/abc/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kakul8791/abc/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kakul8791/abc/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/kakul8791/abc/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kakul8791/abc/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/kakul8791/abc/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/kakul8791/abc/tree/master/1922-count-good-numbers) |
 ## String
 |  |
 | ------- |
