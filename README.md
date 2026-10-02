@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kakul8791/abc/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/kakul8791/abc/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kakul8791/abc/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kakul8791/abc/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/kakul8791/abc/tree/master/0070-climbing-stairs) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kakul8791/abc/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kakul8791/abc/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/kakul8791/abc/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kakul8791/abc/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kakul8791/abc/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/kakul8791/abc/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/kakul8791/abc/tree/master/0344-reverse-string) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kakul8791/abc/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/kakul8791/abc/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kakul8791/abc/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/kakul8791/abc/tree/master/0090-subsets-ii) |
@@ -445,5 +448,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kakul8791/abc/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kakul8791/abc/tree/master/0022-generate-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kakul8791/abc/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
