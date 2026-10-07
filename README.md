@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kakul8791/abc/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/kakul8791/abc/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/kakul8791/abc/tree/master/0058-length-of-last-word) |
+| [0301-remove-invalid-parentheses](https://github.com/kakul8791/abc/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/kakul8791/abc/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/kakul8791/abc/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/kakul8791/abc/tree/master/0678-valid-parenthesis-string) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kakul8791/abc/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kakul8791/abc/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/kakul8791/abc/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/kakul8791/abc/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/kakul8791/abc/tree/master/0357-count-numbers-with-unique-digits) |
 ## Ordered Set
 |  |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/kakul8791/abc/tree/master/0301-remove-invalid-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/kakul8791/abc/tree/master/0365-water-and-jug-problem) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kakul8791/abc/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kakul8791/abc/tree/master/2812-find-the-safest-path-in-a-grid) |
