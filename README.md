@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/kakul8791/abc/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kakul8791/abc/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kakul8791/abc/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/kakul8791/abc/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kakul8791/abc/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kakul8791/abc/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kakul8791/abc/tree/master/0160-intersection-of-two-linked-lists) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kakul8791/abc/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/kakul8791/abc/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/kakul8791/abc/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/kakul8791/abc/tree/master/0125-valid-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/kakul8791/abc/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/kakul8791/abc/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/kakul8791/abc/tree/master/0647-palindromic-substrings) |
