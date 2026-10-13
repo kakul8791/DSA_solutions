@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/kakul8791/abc/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kakul8791/abc/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kakul8791/abc/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/kakul8791/abc/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/kakul8791/abc/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/kakul8791/abc/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kakul8791/abc/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/kakul8791/abc/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/kakul8791/abc/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kakul8791/abc/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/kakul8791/abc/tree/master/0205-isomorphic-strings) |
 | [0301-remove-invalid-parentheses](https://github.com/kakul8791/abc/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/kakul8791/abc/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/kakul8791/abc/tree/master/0647-palindromic-substrings) |
