@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kakul8791/abc/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kakul8791/abc/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kakul8791/abc/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/kakul8791/abc/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kakul8791/abc/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kakul8791/abc/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kakul8791/abc/tree/master/0628-maximum-product-of-three-numbers) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kakul8791/abc/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kakul8791/abc/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/kakul8791/abc/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/kakul8791/abc/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kakul8791/abc/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kakul8791/abc/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0460-lfu-cache](https://github.com/kakul8791/abc/tree/master/0460-lfu-cache) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/kakul8791/abc/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kakul8791/abc/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/kakul8791/abc/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/kakul8791/abc/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/kakul8791/abc/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/kakul8791/abc/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/kakul8791/abc/tree/master/0647-palindromic-substrings) |
