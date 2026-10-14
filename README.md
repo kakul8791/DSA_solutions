@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kakul8791/abc/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/kakul8791/abc/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/kakul8791/abc/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/kakul8791/abc/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/kakul8791/abc/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kakul8791/abc/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kakul8791/abc/tree/master/1021-remove-outermost-parentheses) |
@@ -503,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/kakul8791/abc/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kakul8791/abc/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kakul8791/abc/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/kakul8791/abc/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
