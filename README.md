@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kakul8791/abc/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kakul8791/abc/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/kakul8791/abc/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/kakul8791/abc/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kakul8791/abc/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kakul8791/abc/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kakul8791/abc/tree/master/0349-intersection-of-two-arrays) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kakul8791/abc/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kakul8791/abc/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kakul8791/abc/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/kakul8791/abc/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kakul8791/abc/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kakul8791/abc/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kakul8791/abc/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kakul8791/abc/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kakul8791/abc/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kakul8791/abc/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kakul8791/abc/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kakul8791/abc/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kakul8791/abc/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kakul8791/abc/tree/master/0628-maximum-product-of-three-numbers) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/kakul8791/abc/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/kakul8791/abc/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kakul8791/abc/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kakul8791/abc/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kakul8791/abc/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kakul8791/abc/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0460-lfu-cache](https://github.com/kakul8791/abc/tree/master/0460-lfu-cache) |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kakul8791/abc/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kakul8791/abc/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/kakul8791/abc/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/kakul8791/abc/tree/master/0268-missing-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/kakul8791/abc/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/kakul8791/abc/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/kakul8791/abc/tree/master/0367-valid-perfect-square) |
@@ -417,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/kakul8791/abc/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/kakul8791/abc/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kakul8791/abc/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/kakul8791/abc/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kakul8791/abc/tree/master/0287-find-the-duplicate-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kakul8791/abc/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kakul8791/abc/tree/master/3513-number-of-unique-xor-triplets-i) |
