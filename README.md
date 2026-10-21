@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kakul8791/abc/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/kakul8791/abc/tree/master/1903-largest-odd-number-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kakul8791/abc/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/kakul8791/abc/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Matrix
 |  |
 | ------- |
