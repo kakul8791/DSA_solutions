@@ -1,10 +1,11 @@
 class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
+        
         int pos=0;
         int neg=1;
-        int n=nums.size();
-        vector<int>ans(n);
+        vector<int>ans(nums.size());
+
         for(int num:nums){
             if(num>0){
                 ans[pos]=num;
@@ -16,6 +17,5 @@ public:
             }
         }
         return ans;
-        
     }
 };
