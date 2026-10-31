@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kakul8791/abc/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kakul8791/abc/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/kakul8791/abc/tree/master/3620-network-recovery-pathways) |
+| [3665-twisted-mirror-path-count](https://github.com/kakul8791/abc/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kakul8791/abc/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/kakul8791/abc/tree/master/3731-find-missing-elements) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kakul8791/abc/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kakul8791/abc/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kakul8791/abc/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3620-network-recovery-pathways](https://github.com/kakul8791/abc/tree/master/3620-network-recovery-pathways) |
+| [3665-twisted-mirror-path-count](https://github.com/kakul8791/abc/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kakul8791/abc/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kakul8791/abc/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kakul8791/abc/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kakul8791/abc/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/kakul8791/abc/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kakul8791/abc/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
