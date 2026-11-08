@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/kakul8791/abc/tree/master/1004-max-consecutive-ones-iii) |
 | [1254-number-of-closed-islands](https://github.com/kakul8791/abc/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/kakul8791/abc/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/kakul8791/abc/tree/master/1267-count-servers-that-communicate) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/kakul8791/abc/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/kakul8791/abc/tree/master/1301-number-of-paths-with-max-score) |
 | [1314-matrix-block-sum](https://github.com/kakul8791/abc/tree/master/1314-matrix-block-sum) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kakul8791/abc/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kakul8791/abc/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kakul8791/abc/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/kakul8791/abc/tree/master/1267-count-servers-that-communicate) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kakul8791/abc/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/kakul8791/abc/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1254-number-of-closed-islands](https://github.com/kakul8791/abc/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/kakul8791/abc/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/kakul8791/abc/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/kakul8791/abc/tree/master/1301-number-of-paths-with-max-score) |
 | [1314-matrix-block-sum](https://github.com/kakul8791/abc/tree/master/1314-matrix-block-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kakul8791/abc/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/kakul8791/abc/tree/master/0365-water-and-jug-problem) |
 | [1254-number-of-closed-islands](https://github.com/kakul8791/abc/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/kakul8791/abc/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kakul8791/abc/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kakul8791/abc/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kakul8791/abc/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -475,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/kakul8791/abc/tree/master/0301-remove-invalid-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/kakul8791/abc/tree/master/0365-water-and-jug-problem) |
 | [1254-number-of-closed-islands](https://github.com/kakul8791/abc/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/kakul8791/abc/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kakul8791/abc/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kakul8791/abc/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kakul8791/abc/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -497,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kakul8791/abc/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/kakul8791/abc/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/kakul8791/abc/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kakul8791/abc/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kakul8791/abc/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kakul8791/abc/tree/master/2812-find-the-safest-path-in-a-grid) |
